@@ -1,4 +1,4 @@
-package com.tlkmart.alpha
+package com.tlkmart.seller
 
 import io.flutter.embedding.android.FlutterActivity
 
